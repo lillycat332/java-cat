@@ -1,16 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="55df40b4-d08f-436f-8d4b-a49e85c1d9d4" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/codeStyles/Project.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/java-cat.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/tech/lillycat/cat/Cat.java" afterDir="false" />
+    <list default="true" id="55df40b4-d08f-436f-8d4b-a49e85c1d9d4" name="Changes" comment="Update: Build config, add basic cat functionality">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -80,8 +72,16 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1656779895904</updated>
-      <workItem from="1656779897849" duration="4932000" />
+      <workItem from="1656779897849" duration="6502000" />
     </task>
+    <task id="LOCAL-00001" summary="Update: Build config, add basic cat functionality">
+      <created>1656786567780</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1656786567780</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -97,6 +97,10 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Update: Build config, add basic cat functionality" />
+    <option name="LAST_COMMIT_MESSAGE" value="Update: Build config, add basic cat functionality" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
